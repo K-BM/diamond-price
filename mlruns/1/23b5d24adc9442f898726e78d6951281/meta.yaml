@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/1/23b5d24adc9442f898726e78d6951281/artifacts
+end_time: 1689799609498
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23b5d24adc9442f898726e78d6951281
+run_name: Random Forest Regressor
+run_uuid: 23b5d24adc9442f898726e78d6951281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689799608861
+status: 3
+tags: []
+user_id: H34475

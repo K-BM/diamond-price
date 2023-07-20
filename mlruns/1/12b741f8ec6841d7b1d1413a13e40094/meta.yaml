@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/1/12b741f8ec6841d7b1d1413a13e40094/artifacts
+end_time: 1689799614543
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12b741f8ec6841d7b1d1413a13e40094
+run_name: Decision Tree Regressor
+run_uuid: 12b741f8ec6841d7b1d1413a13e40094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689799613769
+status: 3
+tags: []
+user_id: H34475

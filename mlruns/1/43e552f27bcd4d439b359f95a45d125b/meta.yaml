@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/1/43e552f27bcd4d439b359f95a45d125b/artifacts
+end_time: 1689799625489
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43e552f27bcd4d439b359f95a45d125b
+run_name: K Neighbors Regressor
+run_uuid: 43e552f27bcd4d439b359f95a45d125b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689799624771
+status: 3
+tags: []
+user_id: H34475

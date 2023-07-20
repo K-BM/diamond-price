@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/2/068d0876c66d481fbcc8db22c7d33ecc/artifacts
+end_time: 1689801238365
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 068d0876c66d481fbcc8db22c7d33ecc
+run_name: Elastic Net
+run_uuid: 068d0876c66d481fbcc8db22c7d33ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689801237588
+status: 3
+tags: []
+user_id: H34475

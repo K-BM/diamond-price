@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/2/ada01c39293d4eef916d50d0037c6654/artifacts
+end_time: 1689801205760
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ada01c39293d4eef916d50d0037c6654
+run_name: AdaBoost Regressor
+run_uuid: ada01c39293d4eef916d50d0037c6654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689801204999
+status: 3
+tags: []
+user_id: H34475

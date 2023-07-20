@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/2/4ddc83443e0642c48213ff276e60c26b/artifacts
+end_time: 1689801161082
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4ddc83443e0642c48213ff276e60c26b
+run_name: Extreme Gradient Boosting
+run_uuid: 4ddc83443e0642c48213ff276e60c26b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689801160243
+status: 3
+tags: []
+user_id: H34475

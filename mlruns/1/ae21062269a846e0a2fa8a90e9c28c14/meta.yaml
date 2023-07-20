@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/1/ae21062269a846e0a2fa8a90e9c28c14/artifacts
+end_time: 1689799594424
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae21062269a846e0a2fa8a90e9c28c14
+run_name: Light Gradient Boosting Machine
+run_uuid: ae21062269a846e0a2fa8a90e9c28c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689799593720
+status: 3
+tags: []
+user_id: H34475

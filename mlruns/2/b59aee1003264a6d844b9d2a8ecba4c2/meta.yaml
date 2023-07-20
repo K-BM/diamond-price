@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/2/b59aee1003264a6d844b9d2a8ecba4c2/artifacts
+end_time: 1689801267004
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b59aee1003264a6d844b9d2a8ecba4c2
+run_name: Ridge Regression
+run_uuid: b59aee1003264a6d844b9d2a8ecba4c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689801266341
+status: 3
+tags: []
+user_id: H34475

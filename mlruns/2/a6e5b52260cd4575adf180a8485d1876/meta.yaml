@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/2/a6e5b52260cd4575adf180a8485d1876/artifacts
+end_time: 1689801190884
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a6e5b52260cd4575adf180a8485d1876
+run_name: Gradient Boosting Regressor
+run_uuid: a6e5b52260cd4575adf180a8485d1876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689801190144
+status: 3
+tags: []
+user_id: H34475

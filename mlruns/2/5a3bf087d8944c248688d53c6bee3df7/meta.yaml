@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/2/5a3bf087d8944c248688d53c6bee3df7/artifacts
+end_time: 1689801297912
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5a3bf087d8944c248688d53c6bee3df7
+run_name: CatBoost Regressor
+run_uuid: 5a3bf087d8944c248688d53c6bee3df7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689801296910
+status: 3
+tags: []
+user_id: H34475

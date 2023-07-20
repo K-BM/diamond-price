@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/2/9fc39c8c264d4ebdbd23df3b20396a7f/artifacts
+end_time: 1689801253069
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9fc39c8c264d4ebdbd23df3b20396a7f
+run_name: Dummy Regressor
+run_uuid: 9fc39c8c264d4ebdbd23df3b20396a7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689801252330
+status: 3
+tags: []
+user_id: H34475

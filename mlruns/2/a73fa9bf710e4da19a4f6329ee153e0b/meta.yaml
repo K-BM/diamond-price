@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/2/a73fa9bf710e4da19a4f6329ee153e0b/artifacts
+end_time: 1689801260159
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a73fa9bf710e4da19a4f6329ee153e0b
+run_name: Linear Regression
+run_uuid: a73fa9bf710e4da19a4f6329ee153e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689801259544
+status: 3
+tags: []
+user_id: H34475

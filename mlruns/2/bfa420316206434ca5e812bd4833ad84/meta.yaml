@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/H34475/Desktop/mlflow_diamond_choice/mlruns/2/bfa420316206434ca5e812bd4833ad84/artifacts
+end_time: 1689801230419
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bfa420316206434ca5e812bd4833ad84
+run_name: Lasso Regression
+run_uuid: bfa420316206434ca5e812bd4833ad84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689801229739
+status: 3
+tags: []
+user_id: H34475
